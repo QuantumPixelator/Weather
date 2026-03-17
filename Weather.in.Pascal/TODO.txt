@@ -1,0 +1,6 @@
+Add the moon phase images and use them to display the current moon phase, leave the text (example: Waxing Crescent, etc)
+
+When checking for alerts, ONLY SHOW the alerts for the CURRENTLY SELECTED ZIPCODE.
+
+When compiling, do not put the *.png files into the exe. They need to go into an \assets\ folder, and the code should reference them as needed.
+

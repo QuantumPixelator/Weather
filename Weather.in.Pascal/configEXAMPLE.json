@@ -1,0 +1,6 @@
+{
+    "api_key": "YOUR_API_KEY_HERE",
+    "zip_code": "YOUR_ZIP_CODE",
+    "window_left" : 6,
+    "window_top" : 665
+}

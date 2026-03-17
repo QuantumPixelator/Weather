@@ -1,0 +1,4 @@
+1 ICON "weather.ico"
+1 24 "manifest.xml"
+THERMOMETER RCDATA "thermometer.png"
+WIND RCDATA "wind.png"

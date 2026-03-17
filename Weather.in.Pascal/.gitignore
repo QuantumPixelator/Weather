@@ -1,0 +1,15 @@
+# User-specific config
+config.json
+
+# Compiled Binaries and Objects
+*.exe
+*.obj
+*.res
+*.ppu
+*.o
+
+# Lazarus/FPC temp files
+lib/
+backup/
+*.bak
+*.lps
